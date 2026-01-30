@@ -6,4 +6,4 @@ title: 'Our first page'
 
 # Hello world!
 
-Just a test
+Just a test2
